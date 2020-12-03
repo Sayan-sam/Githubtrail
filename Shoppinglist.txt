@@ -5,3 +5,4 @@ Oranges
 Mango
 Bananas
 Cherries
+Cereals
