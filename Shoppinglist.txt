@@ -7,3 +7,5 @@ Bananas
 Cherries
 Cereals
 Hello worlds
+Peanuts
+walnut
