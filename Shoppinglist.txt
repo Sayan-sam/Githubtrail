@@ -11,3 +11,8 @@ cashew
 walnuts
 Juice
 Walnuts
+blue 
+mix
+lichi
+
+
